@@ -2,7 +2,7 @@
   
 <h1>Bem vindo ao meu Perfil!</h1>
 <p>
-	Eu sou Natalia Borges <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/>
+	Eu sou Natalia Borges 
 </p>
 <h3>Minhas Habilidades🐱‍👤 [2021]</h3>
 <p>
@@ -29,3 +29,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages" />
 	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NataliaBorges&show_icons=true&line_height=27" alt="status" />
 </p>
+<div>
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
