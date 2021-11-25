@@ -22,11 +22,13 @@
 	 <a href="https://www.instagram.com/lia.b33/" target="_blank">
 	 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	 </a>
- 	 <p>
-		<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages" />
-		<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBorges&layout=compact&langs_count=7&"/>
+<div>
+	<p>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBorges&layout=compact&langs_count=7&"/>
 	</p>
 </p>
+</div>
   
  ##
   
