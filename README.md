@@ -1,7 +1,7 @@
 <h1>Bem vindo ao meu Perfil!</h1>
-<p>Eu sou Natalia Borges </p>
+<h2>Eu sou Natalia Borges </h2>
 
-<h3>Minhas Habilidades🐱‍👤 [2021]</h3>
+<h3>Minhas Habilidade [2021]</h3>
 <p>
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
@@ -25,3 +25,4 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages" />
 	</p>
 </p>
+ 
