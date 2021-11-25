@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Bem vindo ao meu Perfil!</h1>
+<h1>Bem vindo ao meu Perfil!</h1>
 <h2>Eu sou Natalia Borges </h2>
 
 <h3>Minhas Habilidade [2021]</h3>
@@ -23,7 +23,8 @@
 	 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	 </a>
  	 <p>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages" />
+		<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaBorges&show_icons=true&locale=en&layout=compact" alt="languages" />
+		<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBorges&layout=compact&langs_count=7&"/>
 	</p>
 </p>
   
