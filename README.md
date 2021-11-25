@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu Perfil!</h1>
+<h1 style="text-align: center">Bem vindo ao meu Perfil!</h1>
 <h2>Eu sou Natalia Borges </h2>
 
 <h3>Minhas Habilidade [2021]</h3>
