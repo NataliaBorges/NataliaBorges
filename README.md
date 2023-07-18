@@ -16,12 +16,6 @@
 	<a href="https://www.linkedin.com/in/nat%C3%A1lia-borges-a47a47181/" target="_blank">
 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.facebook.com/natalia.borges.9693001/" target="_blank">
-	<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-	 </a>
-	 <a href="https://www.instagram.com/lia.b33/" target="_blank">
-	 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	 </a>
 <div>
 	<p>
 	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBorges&layout=compact&langs_count=7&"/>
